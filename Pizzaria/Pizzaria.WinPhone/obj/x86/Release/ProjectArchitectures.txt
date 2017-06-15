@@ -1,0 +1,1 @@
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.WinPhone\Pizzaria.WinPhone.csproj;x86

@@ -1,0 +1,10 @@
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\App.g.i.cs
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\App.g.cs
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\MainPage.g.i.cs
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\MainPage.g.cs
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\App.xaml
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\MainPage.xaml
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\App.xbf
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\MainPage.xbf
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\Pizzaria\Pizzaria\Pizzaria.Windows\obj\Debug\XamlSaveStateFile.xml
